@@ -14,7 +14,6 @@ RUN apk add --no-cache \
   aws-cli \
   git \
   git-bash-completion \
-  sysbench \
   iperf3 \
   iproute2 \
   iputils-tracepath \
