@@ -1,6 +1,6 @@
-FROM alpine
+FROM alpine:3.22.2
 
-MAINTAINER Michael Straßberger <m.strassberger@metaways.de>
+LABEL org.opencontainers.image.authors="Michael Straßberger <m.strassberger@metaways.de>"
 
 RUN apk add --no-cache \
   curl \
