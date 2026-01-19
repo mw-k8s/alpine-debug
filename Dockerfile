@@ -1,4 +1,4 @@
-FROM alpine:3.22.2
+FROM alpine:3.23.2
 
 LABEL org.opencontainers.image.authors = "Michael Straßberger <m.strassberger@metaways.de>"
 LABEL org.opencontainers.image.source  = "https://github.com/mw-k8s/alpine-debug"
